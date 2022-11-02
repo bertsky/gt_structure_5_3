@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:29:37</Created>
+	<LastChange>2019-02-21T16:07:40</LastChange></Metadata>
+	<Page imageFilename="wundt_grundriss_1896_0001.jpg" imageWidth="1995" imageHeight="3263" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="426,2195 1490,2195 1490,2304 426,2304"/></SeparatorRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1706,1375 1706,425 162,425 162,1375"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="318,1443 318,1931 1593,1931 1593,1443"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1471,2996 1471,2642 364,2642 364,2996"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

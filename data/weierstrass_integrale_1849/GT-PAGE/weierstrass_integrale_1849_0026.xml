@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:29:16</Created>
+	<LastChange>2019-03-06T15:05:06</LastChange></Metadata>
+	<Page imageFilename="weierstrass_integrale_1849_0026.jpg" imageWidth="2979" imageHeight="3487" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="signature-mark">
+	<Coords points="1522,2747 1633,2747 1633,2813 1522,2813"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1000,573 1000,491 869,491 869,573"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="r2">
+	<Coords points="213,647 213,1030 1530,1030 1530,647"/></MathsRegion>
+	<MathsRegion id="r3">
+	<Coords points="1308,1195 1308,1095 630,1095 630,1195"/></MathsRegion>
+	<MathsRegion id="r4">
+	<Coords points="1491,1460 1491,1352 469,1352 469,1460"/></MathsRegion>
+	<MathsRegion id="r5">
+	<Coords points="1426,1695 1426,1604 669,1604 669,1695"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="821,1930 821,2139 1326,2139 1326,1930"/></MathsRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1865,643 1865,2177 60,2177 60,643"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1865,2179 1865,2760 60,2760 60,2179"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

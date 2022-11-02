@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:29:16</Created>
+	<LastChange>2019-03-06T14:30:51</LastChange></Metadata>
+	<Page imageFilename="weierstrass_integrale_1849_0022.jpg" imageWidth="2979" imageHeight="3487" type="content">
+	<PrintSpace>
+	<Coords points="2182,3095 2182,339 56,339 56,3095"/></PrintSpace>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1056,569 1056,486 895,486 895,569"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1900,2778 1900,617 104,617 104,2778"/>
+	<MathsRegion id="r2">
+	<Coords points="1808,1100 1808,686 326,686 326,1100"/></MathsRegion>
+	<MathsRegion id="r3">
+	<Coords points="1526,1478 1526,1208 173,1208 173,1478"/></MathsRegion>
+	<MathsRegion id="r4">
+	<Coords points="1713,2573 1713,1800 126,1800 126,2573"/></MathsRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

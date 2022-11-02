@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:29:16</Created>
+	<LastChange>2019-03-06T14:31:51</LastChange></Metadata>
+	<Page imageFilename="weierstrass_integrale_1849_0023.jpg" imageWidth="2979" imageHeight="3487" type="content">
+	<PrintSpace>
+	<Coords points="2886,3073 2886,321 786,321 786,3073"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote">
+	<Coords points="1120,2339 2866,2339 2866,2759 1120,2759"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="2008,560 2008,478 1895,478 1895,560"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2830,2300 2830,604 1056,604 1056,2300"/>
+	<MathsRegion id="r3">
+	<Coords points="2182,930 2182,660 1634,660 1634,930"/></MathsRegion>
+	<MathsRegion id="r4">
+	<Coords points="2821,1343 2821,965 1069,965 1069,1343"/></MathsRegion>
+	<MathsRegion id="r5">
+	<Coords points="2408,2195 2408,2108 1547,2108 1547,2195"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="2443,1608 2443,1530 1621,1530 1621,1608"/></MathsRegion>
+	<MathsRegion id="r7">
+	<Coords points="2391,1752 2391,1673 1634,1673 1634,1752"/></MathsRegion>
+	<MathsRegion id="r8">
+	<Coords points="2417,1969 2417,1891 1630,1891 1630,1969"/></MathsRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1547,2343 1547,2295 1104,2295 1104,2343"/></SeparatorRegion></Page></PcGts>

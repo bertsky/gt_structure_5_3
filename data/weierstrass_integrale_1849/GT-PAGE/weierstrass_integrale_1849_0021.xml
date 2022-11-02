@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:29:16</Created>
+	<LastChange>2019-03-06T14:29:55</LastChange></Metadata>
+	<Page imageFilename="weierstrass_integrale_1849_0021.jpg" imageWidth="2979" imageHeight="3487" type="content">
+	<PrintSpace>
+	<Coords points="2873,3060 2873,300 778,300 778,3060"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="1882,612 2063,612 2063,693 1882,693"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="2043,547 2043,495 1934,495 1934,547"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2826,2734 2826,665 1100,665 1100,2734"/>
+	<MathsRegion id="r2">
+	<Coords points="2552,2721 2552,2613 1295,2613 1295,2721"/></MathsRegion>
+	<MathsRegion id="r3">
+	<Coords points="2700,1073 2700,765 1243,765 1243,1073"/></MathsRegion>
+	<MathsRegion id="r4">
+	<Coords points="2821,1352 2821,1204 1108,1204 1108,1352"/></MathsRegion>
+	<MathsRegion id="r5">
+	<Coords points="2521,1621 2521,1386 1343,1386 1343,1621"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="2795,1947 2795,1704 1069,1704 1069,1947"/></MathsRegion>
+	<MathsRegion id="r7">
+	<Coords points="2452,2204 2452,2052 1339,2052 1339,2204"/></MathsRegion>
+	<MathsRegion id="r8">
+	<Coords points="2691,2539 2691,2282 1082,2282 1082,2539"/></MathsRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

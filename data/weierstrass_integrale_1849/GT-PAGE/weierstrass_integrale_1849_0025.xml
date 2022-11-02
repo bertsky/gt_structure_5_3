@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:29:16</Created>
+	<LastChange>2019-03-06T15:05:35</LastChange></Metadata>
+	<Page imageFilename="weierstrass_integrale_1849_0025.jpg" imageWidth="2979" imageHeight="3487" type="content">
+	<PrintSpace>
+	<Coords points="2869,3082 2869,330 769,330 769,3082"/></PrintSpace>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="2004,578 2004,517 1891,517 1891,578"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="r2">
+	<Coords points="2300,1104 2300,873 1595,873 1595,1104"/></MathsRegion>
+	<MathsRegion id="r3">
+	<Coords points="2386,1673 2386,1352 1482,1352 1482,1673"/></MathsRegion>
+	<MathsRegion id="r4">
+	<Coords points="2156,1308 2156,1186 1804,1186 1804,1308"/></MathsRegion>
+	<MathsRegion id="r5">
+	<Coords points="2552,1860 2552,1717 1291,1717 1291,1860"/></MathsRegion>
+	<MathsRegion id="r6">
+	<Coords points="2378,2347 2378,2073 1621,2073 1621,2347"/></MathsRegion>
+	<MathsRegion id="r7">
+	<Coords points="2160,2552 2160,2469 1613,2469 1613,2552"/></MathsRegion>
+	<MathsRegion id="r8">
+	<Coords points="2491,2734 2491,2604 1256,2604 1256,2734"/></MathsRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="2847,626 2847,1877 2794,1877 2794,1878 2688,1878 2688,1879 2583,1879 2583,1880 2478,1880 2478,1881 2372,1881 2372,1882 2267,1882 2267,1883 2162,1883 2162,1884 2056,1884 2056,1885 1951,1885 1951,1886 1846,1886 1846,1887 1740,1887 1740,1888 1635,1888 1635,1889 1530,1889 1530,1890 1424,1890 1424,1891 1319,1891 1319,1892 1214,1892 1214,1893 1108,1893 1108,1894 1056,1894 1056,626"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="2847,1879 2847,2778 1056,2778 1056,1896 1109,1896 1109,1895 1215,1895 1215,1894 1320,1894 1320,1893 1425,1893 1425,1892 1531,1892 1531,1891 1636,1891 1636,1890 1741,1890 1741,1889 1847,1889 1847,1888 1952,1888 1952,1887 2057,1887 2057,1886 2163,1886 2163,1885 2268,1885 2268,1884 2373,1884 2373,1883 2479,1883 2479,1882 2584,1882 2584,1881 2689,1881 2689,1880 2795,1880 2795,1879"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

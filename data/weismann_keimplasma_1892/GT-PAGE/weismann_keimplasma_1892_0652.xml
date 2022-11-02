@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:29:17</Created>
+	<LastChange>2019-03-06T15:03:40</LastChange></Metadata>
+	<Page imageFilename="weismann_keimplasma_1892_0652.jpg" imageWidth="2196" imageHeight="3064" type="content">
+	<PrintSpace>
+	<Coords points="2018,2933 2018,329 325,329 325,2933"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="region_2" index="3"/>
+	<RegionRefIndexed regionRef="region_3" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1097,532 1401,532 1401,603 1097,603"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="1062,2322 1436,2322 1436,2376 1062,2376"/></SeparatorRegion>
+	<GraphicRegion id="r0" type="stamp">
+	<Coords points="1155,2474 1159,2488 1159,2503 1155,2514 1155,2637 1159,2648 1166,2659 1174,2666 1181,2674 1192,2681 1211,2688 1225,2692 1262,2700 1285,2703 1296,2707 1325,2707 1340,2714 1351,2714 1359,2707 1362,2692 1366,2677 1370,2662 1374,2648 1377,2633 1381,2622 1381,2607 1385,2596 1385,2500 1377,2492 1374,2481 1366,2470 1355,2459 1340,2451 1325,2448 1314,2437 1307,2429 1296,2425 1274,2414 1262,2411 1185,2411 1174,2429 1162,2440 1155,2451 1155,2462 1151,2474 1159,2485"/></GraphicRegion>
+	<TextRegion id="r2" custom="#back_paragraph" type="paragraph">
+	<Coords points="1919,617 1919,1606 1748,1606 1748,1607 1406,1607 1406,1608 1064,1608 1064,1609 722,1609 722,1610 552,1610 552,617"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" custom="#back_paragraph" type="paragraph">
+	<Coords points="1919,1608 1919,1991 1856,1991 1856,1992 1732,1992 1732,1993 1608,1993 1608,1994 1484,1994 1484,1995 1359,1995 1359,1996 1235,1996 1235,1997 1111,1997 1111,1998 986,1998 986,1999 862,1999 862,2000 738,2000 738,2001 614,2001 614,2002 552,2002 552,1612 723,1612 723,1611 1065,1611 1065,1610 1407,1610 1407,1609 1749,1609 1749,1608"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" custom="#back_paragraph" type="paragraph">
+	<Coords points="1919,1993 1919,2264 552,2264 552,2004 615,2004 615,2003 739,2003 739,2002 863,2002 863,2001 987,2001 987,2000 1112,2000 1112,1999 1236,1999 1236,1998 1360,1998 1360,1997 1485,1997 1485,1996 1609,1996 1609,1995 1733,1995 1733,1994 1857,1994 1857,1993"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
