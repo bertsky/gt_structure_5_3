@@ -179,84 +179,84 @@
    </mets:amdSec>
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0017.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0019.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0021.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0025.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0027.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0029.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0037.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0039.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0017.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0019.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0021.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0025.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0027.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0029.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0037.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/werner_seeleben_1880_0039.xml"/>
