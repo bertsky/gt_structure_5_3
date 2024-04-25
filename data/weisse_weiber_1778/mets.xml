@@ -20,26 +20,26 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Staatsbibliothek München</mods:physicalLocation>
+                  <mods:shelfLocator>BSB München, Slg.Her 1883</mods:shelfLocator>
+                  <mods:url>https://opacplus.bsb-muenchen.de/title/BV036544686</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">[S.l]</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1778</mods:dateIssued>
+                  <mods:publisher>[S.l]</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Drama</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Die verwandelten Weiber, oder Der Teufel ist los</mods:title>
+                  <mods:subTitle>Eine komische Oper in drey Aufzügen</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Weiße</mods:namePart>
+                  <mods:namePart type="given">Christian Felix</mods:namePart>
+                  <mods:displayForm>Christian Felix Weiße</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>88 S. </mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Die verwandelten Weiber, </zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
