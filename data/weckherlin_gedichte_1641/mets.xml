@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, A: 110.3 Poet. (1)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/110-3-poet-1/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/110-3-poet-1/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

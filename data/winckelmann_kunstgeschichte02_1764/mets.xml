@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>UB Heidelberg</mods:physicalLocation>
                   <mods:shelfLocator>UB Heidelberg, C 5012 A RES</mods:shelfLocator>
-                  <mods:url>URL: http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=043630731&amp;INDEXSET=1</mods:url>
+                  <mods:url>http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=043630731&amp;INDEXSET=1</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

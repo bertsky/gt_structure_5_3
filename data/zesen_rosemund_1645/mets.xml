@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, A: 138.1 Eth. (1)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/135-5-eth-2s/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/135-5-eth-2s/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
