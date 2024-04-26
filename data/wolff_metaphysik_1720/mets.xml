@@ -20,9 +20,9 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Universitäts- und Landesbibliothek Halle</mods:physicalLocation>
+                  <mods:shelfLocator>ULB Halle, Fa 3155 (1)</mods:shelfLocator>
+                  <mods:url>	https://opendata.uni-halle.de//handle/1981185920/55680</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
@@ -35,10 +35,10 @@
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Philosophie</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Vernünfftige Gedancken von Gott, der Welt und der Seele des Menschen, Auch allen Dingen überhaupt</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
                <mods:language>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Wolff</mods:namePart>
+                  <mods:namePart type="given">Christian von</mods:namePart>
+                  <mods:displayForm>Christian von Wolff</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[8] Bl., 576 [i.e. 592] S., [16] Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Vernünfftige Gedancken von Gott, der Welt und der Seele des Menschen, Auch allen Dingen überhaupt</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

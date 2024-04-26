@@ -20,9 +20,9 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>ÖNB Wien</mods:physicalLocation>
+                  <mods:shelfLocator>ÖNB Wien, 50.C.6</mods:shelfLocator>
+                  <mods:url>http://data.onb.ac.at/rec/AC10431509</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
@@ -35,10 +35,10 @@
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Handbuch</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Fürsten-Spiegel, oder Monarchia deß Hochlöblichen Ertz- Hauses Oesterreich</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
                <mods:language>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Weingarten</mods:namePart>
+                  <mods:namePart type="given">Johann Jacob von</mods:namePart>
+                  <mods:displayForm>Johann Jacob von Weingarten</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[5] Bl., 444, [18], 166 S., [5] Bl.; Ill. [Kupferst.]</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Fürsten-Spiegel, oder Monarchia deß Hochlöblichen Ertz- Hauses Oesterreich</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
