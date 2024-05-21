@@ -92,234 +92,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             </thead>
             <tbody>
                <tr>
-                  <td>zeller_erkenntnistheorie_1862</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>woellner_aufhebung_1766</td>
-                  <td>91</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>zeiller_centuria01_1658</td>
-                  <td>61</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>zesen_helikon01_1640</td>
-                  <td>119</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>weisse_lieder_1767</td>
-                  <td>147</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>33</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>weismann_keimplasma_1892</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wieland_schwaermerey_1764</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>weckherlin_oden02_1619</td>
-                  <td>142</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>zachariae_schriften01_1763</td>
-                  <td>80</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>wartmann_germania04_1652</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wilamowitz_tragoedie_1889</td>
-                  <td>89</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>zeiller_centuria03_1659</td>
-                  <td>50</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
                   <td>wezel_belphegor01_1776</td>
                   <td>49</td>
                   <td/>
@@ -339,71 +111,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>zinzendorf_christlichelehre_1725</td>
-                  <td>90</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>zinzendorf_bedencken_1742</td>
-                  <td>129</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>zesen_rosemund_1645</td>
-                  <td>74</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>wuelffer_gottesgeschick_1656</td>
-                  <td>158</td>
+                  <td>wolff_anfangsgruende01_1710</td>
+                  <td>100</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>11</td>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -412,112 +127,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td>22</td>
                </tr>
                <tr>
-                  <td>werder_gottfried01_1626</td>
-                  <td>7</td>
+                  <td>witzendorff_policey_1693</td>
+                  <td>81</td>
                   <td/>
                   <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
-                  <td>3</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>wilamowitz_aristoteles02_1893</td>
-                  <td>111</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wirth_nationalfest01_1832</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wolff_naturwuerckungen_1723</td>
-                  <td>59</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>wundt_medizinische_1867</td>
-                  <td>80</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wieland_agathon01_1766</td>
-                  <td>76</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -529,166 +149,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>21</td>
                </tr>
                <tr>
-                  <td>wundt_grundriss_1896</td>
-                  <td>76</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>wartmann_germania04_1652</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wolff_gesellschaftlichesleben_1721</td>
-                  <td>117</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>weckherlin_gedichte_1641</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>winckelmann_kunstgeschichte02_1764</td>
-                  <td>187</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-               </tr>
-               <tr>
-                  <td>weigel_gnothi03_1618</td>
-                  <td>105</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>weigel_gnothi_1615</td>
-                  <td>120</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>weirauch_dellaragione_1673</td>
-                  <td>70</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>winkler_gedanken_1744</td>
-                  <td>77</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>weisse_weiber_1778</td>
-                  <td>255</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -719,8 +187,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>25</td>
                </tr>
                <tr>
-                  <td>wolff_gedanken_1720</td>
-                  <td>133</td>
+                  <td>zeiller_centuria01_1658</td>
+                  <td>61</td>
                   <td/>
                   <td/>
                   <td/>
@@ -735,17 +203,36 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td>21</td>
                </tr>
                <tr>
-                  <td>zachariae_schriften04_1764</td>
-                  <td>106</td>
+                  <td>weckherlin_oden01_1618</td>
+                  <td>147</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>14</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>weigel_gnothi03_1618</td>
+                  <td>105</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -754,7 +241,140 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>28</td>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>weismann_naturzuechtung_1893</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>zesen_helikon02_1641</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>wienbarg_feldzuege_1834</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>wundt_medizinische_1867</td>
+                  <td>80</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>weigel_gueldenergriff_1613</td>
+                  <td>86</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>10</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>zachariae_schriften05_1764</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>wolff_naturwuerckungen_1723</td>
+                  <td>59</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
                </tr>
                <tr>
                   <td>zachariae_schriften03_1764</td>
@@ -776,14 +396,128 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>25</td>
                </tr>
                <tr>
-                  <td>werner_seeleben_1880</td>
-                  <td>63</td>
+                  <td>zeller_erkenntnistheorie_1862</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>zeiller_centuria04_1660</td>
+                  <td>57</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>wolff_anfangsgruende04_1710</td>
+                  <td>201</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>zwinger_theatrum_1690</td>
+                  <td>231</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>weirauch_dellaragione_1673</td>
+                  <td>70</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>wartmann_germania05_1653</td>
+                  <td>84</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>wilamowitz_aristoteles02_1893</td>
+                  <td>111</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -814,14 +548,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>21</td>
                </tr>
                <tr>
-                  <td>zachariae_schriften06_1764</td>
-                  <td>142</td>
+                  <td>weigel_moralweissheit_1674</td>
+                  <td>104</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>9</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -830,11 +564,87 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td>25</td>
                </tr>
                <tr>
-                  <td>zeiller_centuria04_1660</td>
-                  <td>57</td>
+                  <td>zinzendorf_christlichelehre_1725</td>
+                  <td>90</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>zinzendorf_bedencken_1741</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>zachariae_schriften01_1763</td>
+                  <td>80</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>woellner_aufhebung_1766</td>
+                  <td>91</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>wolff_gedanken_1720</td>
+                  <td>133</td>
                   <td/>
                   <td/>
                   <td/>
@@ -849,17 +659,74 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>24</td>
+                  <td>29</td>
                </tr>
                <tr>
-                  <td>witzendorff_policey_1693</td>
-                  <td>81</td>
+                  <td>weckherlin_oden02_1619</td>
+                  <td>142</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>13</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>wolff_gesellschaftlichesleben_1721</td>
+                  <td>117</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>weismann_keimplasma_1892</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>zeiller_centuria03_1659</td>
+                  <td>50</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -871,12 +738,50 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>21</td>
                </tr>
                <tr>
-                  <td>wolff_anfangsgruende03_1710</td>
-                  <td>168</td>
+                  <td>winckelmann_kunstgeschichte02_1764</td>
+                  <td>187</td>
                   <td/>
                   <td/>
-                  <td>6</td>
+                  <td>2</td>
+                  <td/>
+                  <td/>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>wieland_agathon02_1767</td>
+                  <td>34</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>10</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>14</td>
+               </tr>
+               <tr>
+                  <td>zesen_helikon01_1640</td>
+                  <td>119</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
                   <td/>
                   <td>3</td>
                   <td/>
@@ -890,14 +795,71 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>26</td>
                </tr>
                <tr>
-                  <td>wolff_anfangsgruende02_1710</td>
-                  <td>164</td>
+                  <td>wartmann_germania0203_1650</td>
+                  <td>73</td>
                   <td/>
                   <td/>
-                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>zinzendorf_bedencken_1742</td>
+                  <td>129</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>2</td>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>winkler_gedanken_1744</td>
+                  <td>77</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>wuelffer_gottesgeschick_1656</td>
+                  <td>158</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>11</td>
                   <td/>
                   <td/>
                   <td/>
@@ -909,12 +871,12 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>27</td>
                </tr>
                <tr>
-                  <td>wolff_anfangsgruende01_1710</td>
-                  <td>100</td>
+                  <td>weingarten_fuerstenspiegel_1673</td>
+                  <td>95</td>
                   <td/>
                   <td/>
+                  <td>4</td>
                   <td>1</td>
-                  <td/>
                   <td/>
                   <td>6</td>
                   <td/>
@@ -928,12 +890,12 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>woyt_gazophylacium_1737</td>
-                  <td>122</td>
+                  <td>zachariae_schriften04_1764</td>
+                  <td>106</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
-                  <td>2</td>
                   <td/>
                   <td>4</td>
                   <td/>
@@ -944,93 +906,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>30</td>
+                  <td>28</td>
                </tr>
                <tr>
-                  <td>zesen_helikon02_1641</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
+                  <td>werner_seeleben_1880</td>
+                  <td>63</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>weise_ertznarren_1672</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>weckherlin_oden01_1618</td>
-                  <td>147</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>14</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>wirth_nationalfest02_1832</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>wartmann_germania0203_1650</td>
-                  <td>73</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1061,14 +947,52 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>1</td>
                </tr>
                <tr>
-                  <td>weingarten_fuerstenspiegel_1673</td>
-                  <td>95</td>
+                  <td>wundt_grundriss_1896</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>wirth_nationalfest02_1832</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>wolff_theorie_1764</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td>4</td>
-                  <td>1</td>
-                  <td/>
-                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1080,8 +1004,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>wienbarg_feldzuege_1834</td>
-                  <td>40</td>
+                  <td>zeiller_centuria02_1659</td>
+                  <td>81</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>wilamowitz_aristoteles01_1893</td>
+                  <td>90</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1118,42 +1061,42 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>winckelmann_kunstgeschichte01_1764</td>
-                  <td>141</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>weigel_gnothi_1615</td>
+                  <td>120</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
                </tr>
                <tr>
-                  <td>wrangel_luxusfuhrwerk_1898</td>
-                  <td>78</td>
+                  <td>wertheim_brieffsteller_1741</td>
+                  <td>134</td>
                   <td/>
                   <td/>
-                  <td>10</td>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
                </tr>
                <tr>
                   <td>werner_gebirgsarten_1787</td>
@@ -1175,14 +1118,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>wolff_theorie_1764</td>
-                  <td>76</td>
+                  <td>zesen_rosemund_1645</td>
+                  <td>74</td>
                   <td/>
                   <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1191,11 +1131,20 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
                </tr>
                <tr>
-                  <td>weismann_naturzuechtung_1893</td>
-                  <td>40</td>
+                  <td>winckelmann_kunstgeschichte01_1764</td>
+                  <td>141</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1204,23 +1153,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>27</td>
                </tr>
                <tr>
-                  <td>wilamowitz_aristoteles01_1893</td>
-                  <td>90</td>
+                  <td>weisse_weiber_1778</td>
+                  <td>255</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1251,71 +1194,33 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>wieland_agathon02_1767</td>
-                  <td>34</td>
+                  <td>wieland_schwaermerey_1764</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>14</td>
+                  <td>23</td>
                </tr>
                <tr>
-                  <td>zachariae_schriften05_1764</td>
-                  <td>83</td>
+                  <td>wilamowitz_tragoedie_1889</td>
+                  <td>89</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>weigel_gnothi02_1618</td>
-                  <td>102</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>wartmann_germania01_1650</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1327,33 +1232,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>zinzendorf_bedencken_1741</td>
-                  <td>76</td>
+                  <td>wrangel_luxusfuhrwerk_1898</td>
+                  <td>78</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>wartmann_germania05_1653</td>
-                  <td>84</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>12</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1365,14 +1251,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>wertheim_brieffsteller_1741</td>
-                  <td>134</td>
+                  <td>werder_gottfried01_1626</td>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>8</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1381,17 +1267,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>30</td>
+                  <td>3</td>
                </tr>
                <tr>
-                  <td>wesenigk_polysigma_1702</td>
-                  <td>126</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>wirth_nationalfest01_1832</td>
+                  <td>41</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1400,45 +1280,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>zinzendorf_gedichte_1735</td>
-                  <td>133</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>zwinger_theatrum_1690</td>
-                  <td>231</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>12</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>wolff_voelckerrecht_1754</td>
@@ -1460,8 +1308,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>29</td>
                </tr>
                <tr>
-                  <td>zeiller_centuria02_1659</td>
-                  <td>81</td>
+                  <td>wieland_agathon01_1766</td>
+                  <td>76</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1476,17 +1324,131 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>22</td>
+                  <td>21</td>
                </tr>
                <tr>
-                  <td>weigel_moralweissheit_1674</td>
-                  <td>104</td>
+                  <td>zachariae_schriften06_1764</td>
+                  <td>142</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>wesenigk_polysigma_1702</td>
+                  <td>126</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>wolff_anfangsgruende03_1710</td>
+                  <td>168</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td>1</td>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>weise_ertznarren_1672</td>
+                  <td>96</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>wolff_anfangsgruende02_1710</td>
+                  <td>164</td>
+                  <td/>
+                  <td/>
+                  <td>16</td>
+                  <td>2</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>wartmann_germania01_1650</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>weckherlin_gedichte_1641</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1498,15 +1460,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>25</td>
                </tr>
                <tr>
-                  <td>wolff_anfangsgruende04_1710</td>
-                  <td>201</td>
+                  <td>weigel_gnothi02_1618</td>
+                  <td>102</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>23</td>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1514,14 +1474,16 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td>22</td>
                </tr>
                <tr>
-                  <td>weigel_gueldenergriff_1613</td>
-                  <td>86</td>
+                  <td>zinzendorf_gedichte_1735</td>
+                  <td>133</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>10</td>
@@ -1533,7 +1495,45 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>24</td>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>woyt_gazophylacium_1737</td>
+                  <td>122</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>weisse_lieder_1767</td>
+                  <td>147</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>33</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
                </tr>
                <tr>
                   <td>zesen_assenat_1670</td>
